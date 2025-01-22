@@ -27,7 +27,7 @@ This repository contains a Multi-Agent System for generating AI and Generative A
 
 ### Prerequisites
 
-- Python 3.8+
+- Python 3.10+
 - `requirements.txt` for dependencies
 - API keys for GROQ, LangSmith, and Tavily services
 
